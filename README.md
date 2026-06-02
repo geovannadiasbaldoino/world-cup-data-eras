@@ -1,4 +1,3 @@
-# world-cup-data-eras
 # Evolução Histórica da Copa do Mundo: Análise de Eras
 
 Este projeto aplica conceitos de **Aprendizado Não Supervisionado** para analisar a evolução histórica de todas as edições da Copa do Mundo da FIFA. O objetivo foi identificar e segmentar as diferentes "Eras" do torneio com base na dinâmica e estrutura de performance do futebol ao longo do tempo.
